@@ -1,4 +1,4 @@
-# Lovelace animated weather card
+# Lovelace animated weather card (mcarbonne fork)
 
 Originally created for the [old UI](https://community.home-assistant.io/t/custom-ui-weather-state-card-with-a-question/23008) converted by @arsaboo and @ciotlosm to [Lovelace](https://community.home-assistant.io/t/custom-ui-weather-state-card-with-a-question/23008/291) and now adapted to display all informations available in the Météo-France integration.
 
